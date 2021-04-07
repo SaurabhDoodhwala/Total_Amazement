@@ -1,11 +1,12 @@
 # Total_Amazement
 
 Authors:
-1)Sarah Bi 
-2)Saurabh Parimal Doodhwala 
+
+Sarah Bi 
+Saurabh Parimal Doodhwala 
 
 Program description:
-This program is will generate and solve a maze using an MxN graph. This program is divided into two parts. 
+This program will generate and solve a maze using an MxN graph. This program is divided into two parts. 
 
 The maze generation program will create a maze for a MxN graph representation using a depth first search (DFS) algorithm. The command line input parameters for maze generation are: 
 
