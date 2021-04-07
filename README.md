@@ -1,4 +1,4 @@
-# Total_Amazement
+# Total Amazement
 
 Authors:
 
@@ -42,10 +42,15 @@ How to compile and run (in Linux):
 An example is shown below for a 2x2 matrix: 
 
 Line 1 (nRows nCols)            	2 2 
+
 Line 2 (startNode endNode)     		3 2 
+
 Line 3 (connections for node 0) 	1 2 
+
 Line 4 (connections for node 1) 	3 0 
+
 Line 5 (connections for node 2) 	0 
+
 Line 6 (connections for node 3) 	1 
 
 
